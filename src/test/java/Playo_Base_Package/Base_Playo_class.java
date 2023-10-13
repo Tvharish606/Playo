@@ -8,4 +8,13 @@ public class Base_Playo_class
 		System.out.println("KING");
 	}
 	
+
+public void Ckae()
+{
+	System.out.println("hbjahvadg");
+}
+public void day2()
+{
+	System.out.println("learning 2");
+}
 }
